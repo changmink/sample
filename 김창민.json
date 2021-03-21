@@ -1,0 +1,8 @@
+{
+	"name":"김창민",
+	"introduce":"안녕하세요. 이미지 파일을 처리하는 서버를 다루는 일을 하고 있습니다.",
+	"talk":"반갑습니다.",
+	"experience":"Java, Python(flask, opencv, requests, etc...), C/C++(opencv, tensorflow, 하드웨어 제어), Javascript, IOS(Swift), Go(FastHTTP, gin), 영상처리, 딥러닝",
+	"interest": "UX",
+	"team":"백엔드"
+}
